@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding: 0;
+    max-width: 100%;
+    
+} 
+ .logo1{
+    width: 100px;;
+}
+.menu-bar ul {
+display: flex;
+justify-content: space-around;
+background-color: #0D0D0D;
+color: white;
+}
+.menu-bar ul li{
+list-style:none;
+}
+.menu {
+    margin-top: 60px;
+    font-size: 20px;
+}
+.favorie{
+    margin-top: 60px;
+    font-size: 20px;
+}
+.back{
+    width: 100%;
+    max-width: 100%;
+    padding-right: 5px;
+}
+
+.watch{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 90%;
+    width: 90%;
+}   
+.f {
+    text-align: center;
+    font-size: 10px;
+    color: #B2854E;
+    
+
+}
+.wa{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    max-width: 100%;
+}
