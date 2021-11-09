@@ -66,7 +66,8 @@
     border-radius: 8PX;
     border-color: #B2854E;
     margin-left: 60PX;
-    /* margin-left:20PX ; */
+    margin-top: 40PX;
+    
     
  }
 #telephone  {
@@ -75,7 +76,7 @@
     border-radius: 8PX;
     border-color: #B2854E;
     margin-left: 60PX;
-    /* margin-left: 20PX; */
+    margin-top: 40PX;
  }
 
  .SUBMIT{
@@ -91,13 +92,9 @@
     color: #B2854E;
     margin-bottom:30px;
  }
- /* .sing{
-     display: flex;
-    justify-content: center;
-     flex-wrap: wrap;
- } */
+ 
  button {
-     /* margin-left: 590px; */
+     
      width: 90PX;
      height:40PX ;
      border-radius: 8PX;
@@ -118,7 +115,7 @@
  }
  
 
-/* sm : small screens */
+
 @media only screen and (min-width: 48em) {
     .container {
       width: 49rem;
