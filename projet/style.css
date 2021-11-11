@@ -113,8 +113,15 @@
  footer div ul{
      list-style: none;
  }
- 
-
+#icon{
+    margin-right: 10px;
+}
+.fot{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
 
 @media only screen and (min-width: 48em) {
     .container {
